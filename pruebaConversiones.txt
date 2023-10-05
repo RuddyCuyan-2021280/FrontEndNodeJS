@@ -1,0 +1,6 @@
+prueba funcion freelance
+Los grados a farenheit son: 53.60
+Los kilogramos a libras son: 110.23
+Los kilometros a millas son:: 55.30
+Los pies a pulgadas son: 24
+Las Pulgadas a centimetros son: 25.40
